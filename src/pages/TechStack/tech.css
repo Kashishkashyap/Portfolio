@@ -1,0 +1,41 @@
+.tech {
+  /* padding-left: 120px; */
+  padding: 60px 0px;
+}
+
+.tech-headline {
+  font-weight: bold;
+  padding-left: 5px;
+  color: #d60039;
+}
+
+.tech-icon {
+  font-size: 2rem;
+  color: #bcb4b8;
+}
+
+.card {
+  background-color: #16161d !important;
+  height: 100px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+/* .tech-icon:hover {
+  font-size: 2rem;
+  color: black;
+} */
+
+.card-content {
+  color: #bcb4b8;
+}
+
+.card-content:hover {
+  transform: scale(1.2);
+  /* Increase size by 10% */
+  box-shadow: 0px 0px 30px rgba(0, 0, 0, 0.8);
+  /* Adjust the shadow for the pop-up effect */
+  cursor: pointer;
+  color: #d60039;
+}

@@ -1,0 +1,35 @@
+.about {
+  /* margin: 100px 0px; */
+  padding: 20px;
+  /* padding-left: 130px; */
+}
+
+.about .about-img img {
+  margin: 30px 0px;
+  padding: 20px;
+  width: 100%;
+  /* border-radius: 50px; */
+  border: 1px solid rgb(22, 22, 22);
+  /* Add the double border using box-shadow */
+  box-shadow: 0 0 0 8px rgb(52, 51, 51),
+    /* Outer border */ 0 0 0 11px rgb(96, 91, 92);
+  /* Inner border */
+}
+
+.about-content {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  color: grey;
+}
+
+.about-content h1 {
+  color: #d60039;
+  font-family: cursive;
+  border-bottom: 2px solid #d60039;
+}
+
+.about-content p {
+  text-align: justify;
+}
