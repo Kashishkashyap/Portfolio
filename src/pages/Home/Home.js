@@ -2,7 +2,7 @@ import React from 'react'
 import './home.css'
 import Typewriter from 'typewriter-effect';
 import Resume from '../../assets/docs/Resume.pdf'
-import imageSource from '../../components/Menus/photo.png';
+import imageSource from '../../assets/docs/photo.png';
 // import Fade from 'react-reveal/Fade';
 // import Zoom from 'react-reveal/Zoom';
 
