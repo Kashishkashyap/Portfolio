@@ -28,10 +28,14 @@ const project = () => {
                                 <span className="badge rounded-pill bg-warning text-dark mx-1">MongoDB</span>
                             </div>
                             <div className="text-center">
-                                <h5 className="content-title text-center my-3">Food-Wood Application</h5>
-                                <a href="https://github.com/Kashishkashyap/Food-Wood" className="btn view-btn text-center">View</a>
+                                <h5 className="content-title text-center my-3 mt-4">Food-Wood Application</h5>
+                                <div>
+                                    <a href="https://github.com/Kashishkashyap/Food-Wood" className="mb-2 btn view-btn text-center">View Code</a>
+                                </div>
+                                <div>
+                                    <a href="https://foodreviewingwebapplication.onrender.com/fo3ds" className="btn view-btn text-center">Live Demo</a>
+                                </div>
                             </div>
-
                         </div>
                     </div>
                     <div className="content my-3 col-md-3  mx-2">
@@ -44,8 +48,13 @@ const project = () => {
                                 <span className="badge rounded-pill bg-warning text-dark mx-1">Javascript</span>
                             </div>
                             <div className="text-center">
-                                <h5 className="content-title text-center my-3">Sorting Visualizer</h5>
-                                <a href="https://github.com/Kashishkashyap/sortingVisualizer" className="btn view-btn text-center">View</a>
+                                <h5 className="content-title text-center my-3 mt-5">Sorting Visualizer</h5>
+                                <div>
+                                    <a href="https://github.com/Kashishkashyap/sortingVisualizer" className="mb-2 btn view-btn text-center">View Code</a>
+                                </div>
+                                <div>
+                                    <a href="https://sorting-visualizer-1e05751ng-kashishkashyap.vercel.app/" className="btn view-btn text-center">Live Demo</a>
+                                </div>
                             </div>
 
                         </div>
@@ -58,8 +67,13 @@ const project = () => {
                                 <span className="badge rounded-pill bg-warning text-dark mx-1">ReactJS</span>
                             </div>
                             <div className="text-center">
-                                <h5 className="content-title text-center my-3">NewsAPP</h5>
-                                <a href="https://github.com/Kashishkashyap/NewsAPP" className="btn view-btn text-center">View</a>
+                                <h5 className="content-title text-center my-3 mt-5">Note Pad</h5>
+                                <div>
+                                    <a href="https://github.com/Kashishkashyap/notepad" className="mb-2 btn view-btn text-center">View Code</a>
+                                </div>
+                                <div>
+                                    <a href="https://notepad-frontend-ruddy.vercel.app/register" className="btn view-btn text-center">Live Demo</a>
+                                </div>
                             </div>
 
                         </div>
